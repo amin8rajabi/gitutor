@@ -1,1 +1,3 @@
 i am trying to figure git out!
+
+and now i am try to setup github in my new OS
